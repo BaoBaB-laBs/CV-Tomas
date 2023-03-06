@@ -1,0 +1,182 @@
+<!doctype HTML>
+
+
+<html lang="fr">
+
+<head>
+  <link href="style/stylesheet.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>Curricum Vitae - Tomas Simões Vasquez</title>
+</head>
+
+
+
+<body>
+  <page1>
+    <div>
+      <div>
+        <h1>Curriculum Vitae</h1>
+      </div>
+
+
+      <section>
+
+        <img src="image/image.png" alt="Photo de Tomas">
+        <h3>
+          <br />
+          Tomas Simões Vasquez<br />
+          19, rue du Môle<br />
+          1201 Genève<br />
+          Suisse<br />
+          <a href="mailto:tomasaquario@hotmail.com" target="_blank">
+            <p id="email">✉ Tomasaquario@hotmail.com
+          </a><br />
+          <a href="tel:+41787136004">Tel :+41 78 713 60 04</a><br />
+
+
+        </h3>
+        </p>
+      </section>
+
+
+
+      <section>
+
+        <h2>Expériences professionnelles<br /></h2>
+
+        <div class="row">
+          <div class="column left">
+            <h3><u>Profession</u></h3><br>
+            <h4>Agent d’Escale</h4>
+            <h4>2014-2022</h4>
+            
+            <h4>Gardien de piscine/plage</h4>
+            <h4>2010-2013</h4>
+            
+            <h4>Sérigraphe</h4>
+            <h4>2007-2008</h4>
+             
+            <h4>Maçon</h4>
+            <h4>2005-2006</h4>
+              
+          </div>
+          <div class="column center">
+            <h3><u>Entreprise</u></h3><br>
+            <h4>Genève Aéroport, Swissport</h4><br>
+            <h4>Ville de Versoix, piscine de Versoix</h4><br>
+            <h4>Sweat Concept Broderie Sérigraphie</h4><br>
+            <h4>Mass Bj Construction, USA</h4><br>
+          </div>
+          <div class="column right">
+            <h3><u>Principales activités</u></h3><br>
+            <h4><ul>
+              <li>Tri-Bagages</li>
+              <li>Terminal</li>
+              <li>Remplacement chef d’Equipe</li>
+            </ul></h4>
+            <h4><ul>
+              <li>Surveillance des bassins</li>
+              <li>Ouverture et fermeture des locaux</li>
+              <li>Travaux d’entretien</li>
+              <li>Remplacements à la caisse</li>
+            </ul></h4>
+            <h4><ul>
+              <li>Dépannage et entretien informatique</li>
+              <li>Impression de T-shirts et autocollants</li>
+            </ul></h4>
+            <h4><ul>
+              <li>Travaux de construction sur chantier</li>
+            </ul></h4>
+
+
+          </div>
+        </div>
+      </section>
+
+
+      <section>
+
+        <h2>Formations<br /></h2>
+
+      </section>
+
+      <section>
+        <h4>
+          <ul>
+            <li>
+             
+
+              <!--      <h2>Année</h2>       -->
+                  <div class="row">
+                    <div class="column left_forma">
+                    
+                      <h4>2014</h4>
+                      <h4>2009</h4>
+                      <h4>2004-2005</h4>
+              </div>  
+                <ul>
+              <!--      <h2>Formations</h2>      --> 
+                  <div class="row">
+                    <div class="column right_forma">
+               <h4>
+                  <li>Sûreté Aéroport de Genève et Permis Tarmac</li><br>
+                  <li>Société Suisse de Sauvetage, Lausanne - Brevet Plus Pool</li><br>
+                  <li>Ecole supérieure d’Informatique, Belo Horizonte, Brésil - Diplôme de technicien d’informatique</li><br>
+                </h4>
+                </ul>
+              </div>                         
+      </section>
+
+
+      <section>
+
+        <h2>Langues<br /></h2>
+
+      </section>
+      <section>
+
+        <div class="row">
+          <div class="column left_Left_lang">
+            <!--      <h2>Langue</h2>      -->
+            <h4>- Portugais</h4>
+            <h4>- Français</h4>
+          </div>
+
+          <div class="row">
+            <div class="column left_right_lang">
+              <!--      <h2>niveau</h2>       -->
+              <h4>Langue maternelle</h4>
+              <h4>B2</h4>
+            </div>
+
+            <div class="row">
+              <div class="column right_left_lang">
+                <!--      <h2>Langue</h2>        -->
+                <h4>- Espagnol</h4>
+                <h4>- Anglais</h4>
+              </div>
+
+              <div class="row">
+                <div class="column right_right_lang">
+                  <!--     <h2>niveau</h2>         -->
+                  <h4>A2</h4>
+                  <h4>A2</h4>
+                </div>
+
+              </div>
+
+      </section>
+
+      <section>
+
+      <hr>
+        <h5><a href="mailto:tomasaquario@hotmail.com" target="_blank">
+            <p id="email">Tomasaquario@hotmail.com
+          </a><span> - Tomas Simões Vasquez - Rue du Môle 19 - 1201 Genève - Suisse</span></h5>
+      <hr>
+      </section>
+    </div>
+  </page1>
+</body>
+
+</html>

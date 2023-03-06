@@ -1,0 +1,13 @@
+img {
+    border: 5px double black;   
+}
+
+body  {
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.fond {
+    background-color: bisque;
+}
+
